@@ -63,6 +63,9 @@ console.log(countPositiveFeedback())
   };
 
 
-
+//   <FeedbackOptions
+//   buttons={buttons} 
+//   handlClickFeedback={handlClickFeedback}/>
+//  </Section>
 
 
