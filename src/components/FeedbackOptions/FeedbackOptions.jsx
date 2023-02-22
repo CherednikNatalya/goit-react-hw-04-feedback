@@ -21,8 +21,8 @@ export const FeedbackOptions =({buttons, handlClickFeedback}) => {
   
 
 FeedbackOptions.propTypes ={
-  options : PropTypes.array.isRequired,
-  onLeaveFeedback : PropTypes.func.isRequired
+  buttons : PropTypes.array.isRequired,
+  handlClickFeedback : PropTypes.func.isRequired
 }
 
 
